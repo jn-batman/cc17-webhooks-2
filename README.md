@@ -1,3 +1,3 @@
 # cc17-webhooks
 
-Something interesting! (and also boring)
+Something even more interesting! (and still boring)
